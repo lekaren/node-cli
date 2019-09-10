@@ -10,7 +10,7 @@ CLI 프로그램
 
   - ex) cli
   - ? 템플릿 종류를 선택하세요. (USe arrow keys)
-  - > html
+  -   html
   -   express-router (html, express-router 중 한 개 선택)
   - ? 파일의 이름을 선택하세요. (index)
   - ? 파일이 위치할 폴더의 경로를 입력하세요. .
