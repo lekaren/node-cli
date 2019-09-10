@@ -9,7 +9,7 @@ CLI 프로그램
   - 위 과정이 완료 되었다면 사용 가능
 
   - ex) cli
-  - ? 템플릿 종류를 선택하세요. (USe arrow keys)
+  - ? 템플릿 종류를 선택하세요. (Use arrow keys)
   -   html
   -   express-router (html, express-router 중 한 개 선택)
   - ? 파일의 이름을 선택하세요. (index)
